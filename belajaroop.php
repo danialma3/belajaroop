@@ -12,4 +12,7 @@ class manusia
   {
     $this->$nama_saya = $saya;
   }
+  class testgit{
+    
+  }
 }
