@@ -70,3 +70,5 @@ echo $Produk2->infoLengkapGame($Produk2);
 
 // Anda Mencetak Naruto, Masashi Kisimoto, Shonen Jump, 35000, 100 Halaman
 // Anda Mencetak PES2022, Kojima, Konami, 450000, 50 jam
+
+// saya melakukan ini di linux ubuntu
